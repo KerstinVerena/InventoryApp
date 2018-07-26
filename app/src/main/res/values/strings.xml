@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="product_name_head">Product Name*:</string>
+    <string name="product_price_head">Price:</string>
+    <string name="product_quantity_head">Quantity:</string>
+    <string name="product_supplier_head">Supplier Name:</string>
+    <string name="product_supplier_contact_head">Supplier Phone Number:</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="product_price_hint">Price</string>
+    <string name="product_quantity_hint">Quantity</string>
+    <string name="product_supplier_hint">Supplier Name</string>
+    <string name="product_supplier_contact_hint">Supplier Contact</string>
+    <string name="information_mandatory_data">Fields marked with * are mandatory.</string>
+    <string name="add_product">Add Product</string>
+    <string name="save_product">Save Product</string>
+</resources>
